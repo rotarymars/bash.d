@@ -6,3 +6,9 @@ Look -> Themeをrosipovに変更
 他テーマでも良いが文字が見にくい色になることが無かったため採用
 Terminal -> Typeをxterm-256colorに変更
 VimでテーマMonokaiを使った時に格好良くなるため
+
+# copy
+
+```bash
+copy .bashrc ~/
+```
